@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Abel|Abril+Fatface|Alegreya|Arima+Madurai|Dancing+Script|Dosis|Merriweather|Oleo+Script|Overlock|PT+Serif|Pacifico|Playball|Playfair+Display|Share|Unica+One|Vibur');
+
+body.login {
+  background-image: linear-gradient(-225deg, #e3fdf5 0%, #ffe6fa 100%);
+  background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+
+  font-family: "Vibur", cursive;
+  font-family: "Abel", sans-serif;
+  opacity: 0.95;
+}
+body.login form {
+  background-image: linear-gradient(-225deg, #E3FDF5 50%, #FFE6FA 50%);
+}
+
+body.login div#login {
+}
+body.login div#login h1 {
+}
+body.login div#login h1 a {
+}
+body.login div#login form#loginform {
+  /* background-image: linear-gradient(-225deg, #E3FDF5 50%, #FFE6FA 50%);
+  color: rgb(52, 54, 54); */
+}
+body.login div#login form#loginform p {
+}
+body.login div#login form#loginform p label {
+}
+body.login div#login form#loginform input {
+}
+body.login div#login form#loginform input#user_login {
+}
+body.login div#login form#loginform input#user_pass {
+}
+body.login div#login form#loginform p.forgetmenot {
+}
+body.login div#login form#loginform p.forgetmenot input#rememberme {
+}
+body.login div#login form#loginform p.submit {
+}
+body.login div#login form#loginform p.submit input#wp-submit {
+}
+body.login div#login p#nav {
+}
+body.login div#login p.message {
+  background-image: linear-gradient(-225deg, #E3FDF5 50%, #FFE6FA 50%);
+
+}
+body.login div#login p#nav a {
+}
+body.login div#login p#backtoblog {
+}
+body.login div#login p#backtoblog a {
+  color: red;
+}
+
+.wp-core-ui .button-primary {
+    background: #FDE6F9;
+    border-color: #2271b1;
+    color: red;
+    text-decoration: none;
+    text-shadow: none;
+}

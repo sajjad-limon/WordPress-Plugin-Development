@@ -1,0 +1,16 @@
+#modal-content {
+    background-color: #fff;
+    padding: 16px 50px 50px 50px;
+}
+
+.plainmodal .plainmodal-overlay {
+    width: 200%;
+    height: 200%;
+}
+
+#close-button {
+    position: relative;
+    right: calc(-100% -47px);
+    top: -46px;
+    cursor: pointer;
+}
