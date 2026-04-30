@@ -169,7 +169,5 @@ class OurMetabox {
 
         echo $metabox_html;
     }
-
 }
-
 new OurMetabox();
